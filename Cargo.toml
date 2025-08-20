@@ -1,0 +1,7 @@
+[package]
+name = "print-own-version"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "Print own version. For testing purposes."
+repository = "https://github.com/auto-merge-prs/print-own-version"
